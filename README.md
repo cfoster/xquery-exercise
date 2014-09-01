@@ -4,11 +4,13 @@
 3. The client should be able to restrict the search to the elements `<title>` and/or `<synopses>`.4. The client should be able to restrict the search to only documents with a specific type.
 All search information must be contained in the "q" parameter.Please provide the XQuery code for your search service and any MarkLogic specific configuration settings required to make it work.
 ### Appendix A
-```xml<clip revision="2" pid="p01gd0zf"> <partner><link pid="s0000001"/></partner><ids><id type="pid">p01gd0zf</id></ids><master_brand/><title>Xiaomi: Global plans for Chinese smartphone maker</title><synopses><synopsis length="short">Global plans for Chinese phone maker</synopsis><synopsis length="medium">Xiaomi chief executive, Lei Jun, plans to start selling phones outside China. </synopsis><synopsis length="long">The chief executive of Xiaomi, Lei Jun, tells the BBC that he plans to sell his company's smartphones outside China.</synopsis></synopses><genres/><formats/><media_type value="audio_video"/><shoot_date/></clip>```
+```xml<clip revision="2" pid="p01gd0zf"> <partner><link pid="s0000001"/></partner><ids><id type="pid">p01gd0zf</id></ids><master_brand/><title>Xiaomi: Global plans for Chinese smartphone maker</title><synopses><synopsis length="short">Global plans for Chinese phone maker</synopsis><synopsis length="medium">Xiaomi chief executive, Lei Jun, plans to start selling phones outside China. </synopsis><synopsis length="long">The chief executive of Xiaomi, Lei Jun, tells the BBC that he plans to sell his company's smartphones outside China.</synopsis></synopses><genres/><formats/><media_type value="audio_video"/><shoot_date/></clip>
+```
 
 ### Appendix B
 ```xml
-<clip><pid>p01gd0zf</pid><partner>s0000001</partner><updated_time>2013-09-10T01:44:43Z</updated_time><title>Xiaomi: Global plans for Chinese smartphone maker</title><synopses><short>Global plans for Chinese phone maker</short><medium>Xiaomi chief executive, Lei Jun, plans to start selling phones outside China. </medium><long>The chief executive of Xiaomi, Lei Jun, tells the BBC that he plans to sell his company's smartphones outside China.</long></synopses><media_type>Video</media_type></clip>```
+<clip><pid>p01gd0zf</pid><partner>s0000001</partner><updated_time>2013-09-10T01:44:43Z</updated_time><title>Xiaomi: Global plans for Chinese smartphone maker</title><synopses><short>Global plans for Chinese phone maker</short><medium>Xiaomi chief executive, Lei Jun, plans to start selling phones outside China. </medium><long>The chief executive of Xiaomi, Lei Jun, tells the BBC that he plans to sell his company's smartphones outside China.</long></synopses><media_type>Video</media_type></clip>
+```
 
 
 ## **Answers** (2 Methods)
