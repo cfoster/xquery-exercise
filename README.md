@@ -1,6 +1,6 @@
 # XQuery Exercise and Answers
 
-## XQuery Exercise (**MarkLogic Test**)A MarkLogic database contains 100 million documents similar to the sample in appendix A. Each document is in a collection "data" and a collection "data-NAME" where NAME is the type of the document.You are required to write a web service in XQuery for MarkLogic that allows a client to search for documents in the database and return documents similar to Appendix B:1. The search service will have the URL: `/search?q=term`2. The client can search for a word occurring anywhere in the documents.
+## XQuery ExerciseA MarkLogic database contains 100 million documents similar to the sample in appendix A. Each document is in a collection "data" and a collection "data-NAME" where NAME is the type of the document.You are required to write a web service in XQuery for MarkLogic that allows a client to search for documents in the database and return documents similar to Appendix B:1. The search service will have the URL: `/search?q=term`2. The client can search for a word occurring anywhere in the documents.
 3. The client should be able to restrict the search to the elements `<title>` and/or `<synopses>`.4. The client should be able to restrict the search to only documents with a specific type.
 All search information must be contained in the "q" parameter.Please provide the XQuery code for your search service and any MarkLogic specific configuration settings required to make it work.
 ### Appendix A
